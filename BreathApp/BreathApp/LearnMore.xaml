@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BreathApp.LearnMore">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="This project is to develop a digital form that support the BA checks. In paid station's each shift must complete a BA check at the start of the shift and after a BA set has been used. In a volunteer station the BA tests are completed very week and after the BA set is used."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                   BackgroundColor="LightGray"
+                   TextColor="Black"
+                   VerticalTextAlignment="Center"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

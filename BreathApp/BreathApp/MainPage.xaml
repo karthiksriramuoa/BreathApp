@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BreathApp"
+             x:Class="BreathApp.MainPage">
+
+    <StackLayout>
+
+        <!-- Place new controls here -->
+        <Label x:Name="message" Text="Welcome to Breathing Apparatus Application!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+        <Button Text="LEARN MORE" Clicked="Button_Clicked" BackgroundColor="Orange" TextColor="Black"></Button>
+        <Button x:Name="functionCheck" Text="Click here to perform BA Function Check." Clicked="Button_FunctionCheck"></Button>
+
+    </StackLayout>
+
+</ContentPage>

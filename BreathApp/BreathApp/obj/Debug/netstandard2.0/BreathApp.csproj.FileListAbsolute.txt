@@ -1,0 +1,14 @@
+D:\Xamarin\BreathApp\BreathApp\BreathApp\bin\Debug\netstandard2.0\BreathApp.deps.json
+D:\Xamarin\BreathApp\BreathApp\BreathApp\bin\Debug\netstandard2.0\BreathApp.dll
+D:\Xamarin\BreathApp\BreathApp\BreathApp\bin\Debug\netstandard2.0\BreathApp.pdb
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\BreathApp.csprojAssemblyReference.cache
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\FunctionCheck.xaml.g.cs
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\LearnMore.xaml.g.cs
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\BreathApp.csproj.CoreCompileInputs.cache
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\BreathApp.AssemblyInfoInputs.cache
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\BreathApp.AssemblyInfo.cs
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\BreathApp.dll
+D:\Xamarin\BreathApp\BreathApp\BreathApp\obj\Debug\netstandard2.0\BreathApp.pdb

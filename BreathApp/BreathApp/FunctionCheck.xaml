@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BreathApp.FunctionCheck">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="BA Function Check"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" FontSize="Medium" FontFamily="Calibri" />
+            <ScrollView>
+                <Grid>
+                    <Label Grid.Row="1" Grid.Column="0" Text="Station"></Label>
+                    <Entry Grid.Row="1" Grid.Column="1"></Entry>
+                    <Label Grid.Row="2" Grid.Column="0" Text="Applicance No."></Label>
+                    <Entry Grid.Row="2" Grid.Column="1"></Entry>
+                    <Label Grid.Row="3" Grid.Column="0" Text="Set No."></Label>
+                    <Entry Grid.Row="3" Grid.Column="1"></Entry>
+                    <Label Grid.Row="4" Grid.Column="1" Text="PSS5000 - Standard"></Label>
+                    <Label Grid.Row="5" Grid.Column="0" Text="Mask No"></Label>
+                    <Entry Grid.Row="5" Grid.Column="1"></Entry>
+                </Grid>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

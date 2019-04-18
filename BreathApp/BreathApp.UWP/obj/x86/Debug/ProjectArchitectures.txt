@@ -1,0 +1,1 @@
+D:\Xamarin\BreathApp\BreathApp\BreathApp.UWP\BreathApp.UWP.csproj;x86
